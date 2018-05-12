@@ -1,0 +1,38 @@
+_repo: Manifesto-da-Serenissima-Sra.-Rainha-de-Hungria-e-Bohemia-Arquiduqueza-de-Austria--amp-c.-man__18519
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mascarenhas, José Freire de Monterroyo
+    aliases:
+    - Monterroio Mascarenhas, José Freire de
+    - Mascarenhas, Jose Freire de Monterroyo
+    - Montarroyo Mascarenhas, José Freire de
+    birthdate: 1670
+    deathdate: 1760
+    gutenberg_agent_id: '38059'
+    url: http://www.gutenberg.org/2009/agents/38059
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Menzel, Johann Daniel von
+    gutenberg_agent_id: '8080'
+    url: http://www.gutenberg.org/2009/agents/8080
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2006-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18519'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Austria -- Foreign relations -- 1740-1780 -- France'
+title: Manifesto da Serenissima Sra. Rainha de Hungria, e Bohemia, Arquiduqueza de
+  Austria, &c. mandado publicar e divulgar pelas provincias, que França domina, fronteiras
+  ao Imperio
+url: http://www.gutenberg.org/ebooks/18519
