@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '8080'
     url: http://www.gutenberg.org/2009/agents/8080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18519#Manifesto-da-Serenissima-Sra.-Rainha-de-Hungria-e-Bohemia-Arquiduqueza-de-Austria--amp-c.-man_
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2006-06-06'
 gutenberg_type: Text
